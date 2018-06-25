@@ -1,0 +1,7 @@
+#spring:
+#  application:
+#    name: mindblowr
+#  cloud:
+#    config:
+#      uri: http://config-daemon:8888
+#      label: master

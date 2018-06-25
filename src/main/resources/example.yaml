@@ -1,0 +1,61 @@
+---
+title: Master thesis
+hash: '0'
+level: 0
+parent: null
+children:
+- title: Einleitung
+  hash: '2'
+  level: 1
+  parent: 0
+  children:
+  - title: Motivation und Zielsetzung dieser Arbeit
+    hash: '2'
+    level: 1
+    parent: 2
+    children:
+    - title: Motivation und Zielsetzung dieser Arbeit
+      hash: '245'
+      level: 2
+      parent: 2
+      children: []
+    - title: Wissenschaftliche Einordnung
+      hash: '3533'
+      level: 2
+      parent: 2
+      children: []
+    - title: Aufbau dieser Arbeit
+      hash: '4345'
+      level: 2
+      parent: 2
+      children: []
+  - title: Wissenschaftliche Einordnung
+    hash: '3'
+    level: 1
+    parent: 2
+    children: []
+  - title: Aufbau dieser Arbeit
+    hash: '4'
+    level: 1
+    parent: 2
+    children:
+    - title: Motivation und Zielsetzung dieser Arbeit222
+      hash: '424'
+      level: 2
+      parent: 4
+      children: []
+    - title: Wissenschaftliche Einordnung222
+      hash: '434'
+      level: 2
+      parent: 4
+      children: []
+    - title: Aufbau dieser Arbeit222
+      hash: '44'
+      level: 2
+      parent: 4
+      children: []
+- title: Hauptteil
+  hash: '345'
+  level: 1
+  parent: 0
+  children: []
